@@ -27,6 +27,7 @@
 <p align="center"><samp>Starter template</samp></p>
 <p align="center">
   <samp>
-    <a href="https://github.com/qq15725/starter-ts">starter-ts</a>
+    <a href="https://github.com/qq15725/starter-ts">starter-ts</a> .
+    <a href="https://github.com/qq15725/starter-vue">starter-vue</a>
   </samp>
 </p>
