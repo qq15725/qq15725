@@ -4,7 +4,7 @@
     <a href="https://github.com/qq15725/veno-ui">veno-ui</a>
   </samp>
 </p>
-<p align="center"><samp>Home Iot</samp></p>
+<p align="center"><samp>Home Iot for TypeScript</samp></p>
 <p align="center">
   <samp>
     <a href="https://github.com/qq15725/homeiot">homeiot</a>
