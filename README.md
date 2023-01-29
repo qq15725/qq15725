@@ -35,6 +35,7 @@
 <p align="center">
   <samp>
     <a href="https://github.com/qq15725/starter-ts">starter-ts</a> .
+    <a href="https://github.com/qq15725/starter-ts-cli">starter-ts-cli</a> .
     <a href="https://github.com/qq15725/starter-vue">starter-vue</a> .
     <a href="https://github.com/qq15725/starter-veno-admin">starter-veno-admin</a>
   </samp>
