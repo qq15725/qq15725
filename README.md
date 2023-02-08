@@ -16,6 +16,7 @@
     <a href="https://github.com/qq15725/modern-screenshot">modern-screenshot</a> .
     <a href="https://github.com/qq15725/modern-audio">modern-audio</a> .
     <a href="https://github.com/qq15725/modern-editor-core">modern-editor-core</a> .
+    <a href="https://github.com/qq15725/modern-gif">modern-gif</a> .
     <a href="https://github.com/qq15725/dom-vcr">dom-vcr</a>
   </samp>
 </p>
