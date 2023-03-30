@@ -25,6 +25,7 @@
     <a href="https://github.com/qq15725/modern-audio">modern-audio</a> .
     <a href="https://github.com/qq15725/modern-editor-core">[WIP]modern-editor-core</a> .
     <a href="https://github.com/qq15725/modern-gif">modern-gif</a> .
+    <a href="https://github.com/qq15725/modern-filters">modern-filters</a> .
     <a href="https://github.com/qq15725/dom-vcr">dom-vcr</a>
   </samp>
 </p>
