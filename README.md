@@ -22,16 +22,19 @@
 <p align="center">
   <samp>
     <a href="https://github.com/qq15725/modern-screenshot">modern-screenshot</a> .
+    <a href="https://github.com/qq15725/modern-gif">modern-gif</a> .
+    <a href="https://github.com/qq15725/modern-canvas">modern-canvas</a> .
+    <a href="https://github.com/qq15725/modern-palette">modern-palette</a> .
+    <a href="https://github.com/qq15725/modern-filters">modern-filters</a> .
     <a href="https://github.com/qq15725/modern-audio">modern-audio</a> .
     <a href="https://github.com/qq15725/modern-editor-core">[WIP]modern-editor-core</a> .
-    <a href="https://github.com/qq15725/modern-gif">modern-gif</a> .
-    <a href="https://github.com/qq15725/modern-filters">modern-filters</a> .
     <a href="https://github.com/qq15725/dom-vcr">dom-vcr</a>
   </samp>
 </p>
-<p align="center"><samp>CPS SDK for PHP</samp></p>
+<p align="center"><samp>Library for PHP</samp></p>
 <p align="center">
   <samp>
+    <a href="https://github.com/qq15725/ddoc">ddoc</a> .
     <a href="https://github.com/qq15725/taobao-sdk">taobao-sdk</a> .
     <a href="https://github.com/qq15725/pdd-sdk">pdd-sdk</a> .
     <a href="https://github.com/qq15725/jd-sdk">jd-sdk</a> .
