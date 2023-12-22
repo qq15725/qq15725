@@ -4,12 +4,6 @@
     <a href="https://github.com/qq15725/veno-ui">veno-ui</a>
   </samp>
 </p>
-<p align="center"><samp>Library for Golang</samp></p>
-<p align="center">
-  <samp>
-    <a href="https://github.com/qq15725/veno">[WIP]veno</a>
-  </samp>
-</p>
 <p align="center"><samp>CLI tools for Node.js</samp></p>
 <p align="center">
   <samp>
