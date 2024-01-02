@@ -1,6 +1,7 @@
-<p align="center"><samp>UI library for Vue 3</samp></p>
+<p align="center"><samp>Web library for Vue 3</samp></p>
 <p align="center">
   <samp>
+    <a href="https://github.com/qq15725/vue-crdt">vue-crdt</a> .
     <a href="https://github.com/qq15725/veno-ui">veno-ui</a>
   </samp>
 </p>
