@@ -18,7 +18,9 @@
   <samp>
     <a href="https://github.com/qq15725/modern-screenshot">modern-screenshot</a> .
     <a href="https://github.com/qq15725/modern-fontmin">modern-fontmin</a> .
-    <a href="https://github.com/qq15725/modern-rembg">modern-rembg</a>
+    <a href="https://github.com/qq15725/modern-rembg">modern-rembg</a> .
+    <a href="https://github.com/qq15725/modern-palette">modern-palette</a> .
+    <a href="https://github.com/qq15725/dom-vcr">dom-vcr</a>
   </samp>
 </p>
 <p align="center"><samp>CLI tools for Node.js</samp></p>
