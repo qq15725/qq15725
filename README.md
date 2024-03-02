@@ -28,6 +28,7 @@
 <p align="center">
   <samp>
     <a href="https://github.com/qq15725/homeiot">[WIP]homeiot</a> .
+    <a href="https://github.com/qq15725/totpkit">TOTPKit</a> .
     <a href="https://github.com/qq15725/changelog-notify">changelog-notify</a>
   </samp>
 </p>
