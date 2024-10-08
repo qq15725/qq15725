@@ -13,6 +13,7 @@
     <a href="https://github.com/qq15725/modern-mp4">modern-mp4</a> .
     <a href="https://github.com/qq15725/modern-pdf">modern-pdf</a> .
     <a href="https://github.com/qq15725/modern-font">modern-font</a> .
+    <a href="https://github.com/qq15725/modern-path2d">modern-path2d</a> .
     <a href="https://github.com/qq15725/modern-text">modern-text</a> .
     <a href="https://github.com/qq15725/modern-rembg">modern-rembg</a> .
     <a href="https://github.com/qq15725/modern-palette">modern-palette</a> .
