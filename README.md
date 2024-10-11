@@ -6,7 +6,6 @@
   </samp>
 </p>
 <p align="center"><samp>Web codec library for TypeScript</samp></p>
-
 <div align="center">
 
 | Package  | Description |
@@ -17,8 +16,7 @@
 | [modern-font](https://github.com/qq15725/modern-font) | ✍🏻 JavaScript Font Codec.  |
 
 </div>
-
-<p align="center"><samp>Web library for TypeScript</samp></p>
+<p align="center"><samp>Web tool library for TypeScript</samp></p>
 <p align="center">
   <samp>
     <a href="https://github.com/qq15725/modern-screenshot">modern-screenshot</a> .
