@@ -12,12 +12,12 @@
 <p align="center"><samp>Web codec library for TypeScript</samp></p>
 <div align="center">
 
-| Package  | Description |
-| ------------- | ------------- |
-| [modern-gif](https://github.com/qq15725/modern-gif)   | 🚀 JavaScript GIF Codec.  |
-| [modern-mp4](https://github.com/qq15725/modern-mp4)   | 🚀 JavaScript MP4 Codec.  |
-| [modern-pdf](https://github.com/qq15725/modern-pdf)   | 📃 [WIP] JavaScript PDF Codec.  |
-| [modern-font](https://github.com/qq15725/modern-font) | ✍🏻 JavaScript Font Codec.  |
+| Package  | Description | Stars |
+| ------------- | ------------- | ---------- |
+| [modern-gif](https://github.com/qq15725/modern-gif)   | 🚀 JavaScript GIF Codec.  | <a href="https://github.com/qq15725/modern-gif">![stars](https://img.shields.io/github/stars/qq15725/modern-gif?style=social)</a> | 
+| [modern-mp4](https://github.com/qq15725/modern-mp4)   | 🚀 JavaScript MP4 Codec.  | <a href="https://github.com/qq15725/modern-mp4">![stars](https://img.shields.io/github/stars/qq15725/modern-mp4?style=social)</a> | 
+| [modern-pdf](https://github.com/qq15725/modern-pdf)   | 📃 [WIP] JavaScript PDF Codec.  | <a href="https://github.com/qq15725/modern-pdf">![stars](https://img.shields.io/github/stars/qq15725/modern-pdf?style=social)</a> | 
+| [modern-font](https://github.com/qq15725/modern-font) | ✍🏻 JavaScript Font Codec.  | <a href="https://github.com/qq15725/modern-font">![stars](https://img.shields.io/github/stars/qq15725/modern-font?style=social)</a> | 
 
 </div>
 <p align="center"><samp>CLI tools for Node.js</samp></p>
