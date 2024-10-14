@@ -6,6 +6,7 @@
     <a href="https://github.com/qq15725/modern-text">modern-text</a> .
     <a href="https://github.com/qq15725/modern-rembg">modern-rembg</a> .
     <a href="https://github.com/qq15725/modern-palette">modern-palette</a> .
+    <a href="https://github.com/qq15725/modern-audio">modern-audio</a> .
     <a href="https://github.com/qq15725/dom-vcr">dom-vcr</a>
   </samp>
 </p>
