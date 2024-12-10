@@ -14,7 +14,7 @@
 <p align="center"><samp>Web codec library for TypeScript</samp></p>
 <div align="center">
 
-| Package  | Description | Stars |
+| Package  | EXT | Stars |
 | ------------- | ------------- | ---------- |
 | [modern-gif](https://github.com/qq15725/modern-gif)   | GIF | <a href="https://github.com/qq15725/modern-gif">![stars](https://img.shields.io/github/stars/qq15725/modern-gif?style=social)</a> | 
 | [modern-mp4](https://github.com/qq15725/modern-mp4)   | MP4 | <a href="https://github.com/qq15725/modern-mp4">![stars](https://img.shields.io/github/stars/qq15725/modern-mp4?style=social)</a> | 
