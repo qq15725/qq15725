@@ -16,11 +16,11 @@
 
 | Package  | EXT | Stars |
 | ------------- | ------------- | ---------- |
-| [modern-gif](https://github.com/qq15725/modern-gif)   | GIF | <a href="https://github.com/qq15725/modern-gif">![stars](https://img.shields.io/github/stars/qq15725/modern-gif?style=social)</a> | 
-| [modern-mp4](https://github.com/qq15725/modern-mp4)   | MP4 | <a href="https://github.com/qq15725/modern-mp4">![stars](https://img.shields.io/github/stars/qq15725/modern-mp4?style=social)</a> | 
-| [modern-pdf](https://github.com/qq15725/modern-pdf)   | PDF | <a href="https://github.com/qq15725/modern-pdf">![stars](https://img.shields.io/github/stars/qq15725/modern-pdf?style=social)</a> | 
-| [modern-font](https://github.com/qq15725/modern-font) | TTF、OTF、WOFF | <a href="https://github.com/qq15725/modern-font">![stars](https://img.shields.io/github/stars/qq15725/modern-font?style=social)</a> | 
-| [modern-openxml](https://github.com/qq15725/modern-openxml) | PPTX、DOCX、XLSX | <a href="https://github.com/qq15725/modern-openxml">![stars](https://img.shields.io/github/stars/qq15725/modern-openxml?style=social)</a> | 
+| [modern-gif](https://github.com/qq15725/modern-gif)   | .gif | <a href="https://github.com/qq15725/modern-gif">![stars](https://img.shields.io/github/stars/qq15725/modern-gif?style=social)</a> | 
+| [modern-mp4](https://github.com/qq15725/modern-mp4)   | .mp4 | <a href="https://github.com/qq15725/modern-mp4">![stars](https://img.shields.io/github/stars/qq15725/modern-mp4?style=social)</a> | 
+| [modern-pdf](https://github.com/qq15725/modern-pdf)   | .pdf | <a href="https://github.com/qq15725/modern-pdf">![stars](https://img.shields.io/github/stars/qq15725/modern-pdf?style=social)</a> | 
+| [modern-font](https://github.com/qq15725/modern-font) | .ttf、.otf、.woff | <a href="https://github.com/qq15725/modern-font">![stars](https://img.shields.io/github/stars/qq15725/modern-font?style=social)</a> | 
+| [modern-openxml](https://github.com/qq15725/modern-openxml) | .pptx、.docx、.xlsx | <a href="https://github.com/qq15725/modern-openxml">![stars](https://img.shields.io/github/stars/qq15725/modern-openxml?style=social)</a> | 
 
 </div>
 <p align="center"><samp>CLI tools for Node.js</samp></p>
